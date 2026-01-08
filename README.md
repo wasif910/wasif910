@@ -1,87 +1,133 @@
-# Hi, I'm Muhammad Wasif Khan 👋💻
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wasif910.wasif910" />
 
-🎓 **Computer Engineering (Co-op) Student @ University of Guelph**  
-🚀 Aspiring Software Engineer | Full-Stack & Systems-Focused  
-🌱 Building scalable, clean, and impactful software solutions
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Wasif+Khan!;Computer+Engineering+%28Co-op%29+%40+UofG;Full-Stack+%7C+Systems-Focused" />
+</h1>
 
-I’m passionate about turning ideas into real products — from interactive web apps to embedded systems. I enjoy working across **frontend, backend, and low-level systems**, and I love learning how things work under the hood.
+<!-- Animated Gradient Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,22,30,45&height=4&section=header&animation=fadeIn" width="65%"/>
+</div>
 
-When I’m not coding, I’m exploring new tech, improving my system design skills, or experimenting with side projects.
+<h3 align="center">🎓 Computer Engineering (Co-op) Student @ University of Guelph</h3>
+<h4 align="center">🚀 Aspiring Software Engineer | Full-Stack & Systems-Focused</h4>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<div align="left">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql)
+🌱 Building scalable, clean, and impactful software solutions  
+💡 I love working across **frontend, backend, and low-level systems**  
+🧠 Always learning how things work **under the hood** (system design + embedded)  
+⚡ Fun fact: I enjoy turning ideas into real products — from web apps to hardware projects  
 
----
-
-### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+</div>
 
 ---
 
-### 🧰 Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="left">
+
+🌍 <b>Endangered Species Visualizer (SPURHacks)</b>  
+Interactive <b>map-based web app</b> showcasing endangered species across Ontario with clickable markers, detail panels, audio playback & 3D previews, plus a dynamic heatmap for filtering and threat intensity.  
+<b>Tech:</b> React, Node.js, Express, Maps API (Leaflet/Mapbox), REST APIs, Git
+
+<br/>
+
+🏫 <b>University Management System</b>  
+Role-based <b>admin & student dashboards</b> for scheduling, attendance, and payments with Excel-backed storage using Apache POI and a clean MVC architecture.  
+<b>Tech:</b> Java, JavaFX, Apache POI, OOP, Git
+
+<br/>
+
+🤖 <b>Robot Ant (Arduino Hexapod)</b>  
+Programmed a <b>6-legged robot</b> with gait/turning logic, obstacle avoidance using ultrasonic sensors + state machines, and a wireless control mode with live status display.  
+<b>Tech:</b> Arduino (C/C++), Embedded Systems, PWM, Sensors
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
-### 🌍 Endangered Species Visualizer (SPURHacks)
-- Interactive **map-based web app** showcasing endangered species across Ontario  
-- Clickable markers, species detail panels, audio playback & 3D previews  
-- Dynamic **heatmap visualization** for threat intensity and filtering by region  
-- **Tech:** React, Node.js, Express, Maps API (Leaflet/Mapbox), REST APIs, Git
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">💻 Languages</h3>
+      <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>C++</li>
+        <li>SQL</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚙️ Frameworks & Tools</h3>
+      <ul>
+        <li>React</li>
+        <li>Next.js</li>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>Supabase</li>
+        <li>MongoDB</li>
+        <li>TailwindCSS</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧰 Developer Tools</h3>
+      <ul>
+        <li>Git</li>
+        <li>GitHub</li>
+        <li>Postman</li>
+        <li>VS Code</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br/>
+  <!-- Tool Icons -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,react,nextjs,nodejs,express,mongodb,supabase,tailwind,git,github,postman,vscode" />
+</div>
 
 ---
 
-### 🏫 University Management System
-- Role-based **admin & student dashboards** for scheduling, attendance & payments  
-- Excel-backed data storage using **Apache POI**  
-- Clean **MVC architecture** with modular Java components  
-- **Tech:** Java, JavaFX, Apache POI, OOP, Git
+<h2 align="center">📚 Currently Learning</h2>
+
+<div align="center">
+
+Scalable backend patterns • System design fundamentals • Low-level & embedded concepts • Advanced React/Next.js architecture
+
+</div>
 
 ---
 
-### 🤖 Robot Ant (Arduino Hexapod)
-- Programmed a **6-legged robot** with gait & turning logic  
-- Obstacle avoidance using ultrasonic sensors & state machines  
-- Wireless control mode + real-time status display  
-- **Tech:** Arduino (C/C++), Embedded Systems, PWM, Sensors
+<h2 align="center">📫 Get in Touch</h2>
+
+<div align="center">
+  <a href="mailto:wasif.k1m9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/wasif910" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## 📚 Currently Learning
-- Scalable backend patterns  
-- System design fundamentals  
-- Low-level & embedded systems concepts  
-- Advanced React & Next.js architecture  
+<h2 align="center">💬 Quotes I Live By</h2>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&pause=5000&size=18&color=00BFFF&center=true&vCenter=true&width=800&lines=%22Always+open+to+learning,+building,+and+collaborating.%22;%22Build+things+that+actually+help+people.%22;%22Simple,+clean,+scalable.%22" />
+</div>
 
-## 🌐 Connect With Me
-
-🔗 **Portfolio:** *Coming Soon*  
-💼 **LinkedIn:** https://linkedin.com  
-📂 **GitHub:** https://github.com/wasif910  
-📧 **Email:** wasif.k1m9@gmail.com
-
----
-
-⭐ *Always open to learning, building, and collaborating on meaningful projects.*
