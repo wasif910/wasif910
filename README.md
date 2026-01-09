@@ -90,7 +90,6 @@ Programmed a <b>6-legged robot</b> with gait/turning logic, obstacle avoidance u
 
 <div align="center">
   <br/>
-  <!-- Tool Icons -->
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,react,nextjs,nodejs,express,mongodb,supabase,tailwind,git,github,postman,vscode" />
 </div>
 
@@ -99,9 +98,7 @@ Programmed a <b>6-legged robot</b> with gait/turning logic, obstacle avoidance u
 <h2 align="center">📚 Currently Learning</h2>
 
 <div align="center">
-
 Scalable backend patterns • System design fundamentals • Low-level & embedded concepts • Advanced React/Next.js architecture
-
 </div>
 
 ---
@@ -109,16 +106,20 @@ Scalable backend patterns • System design fundamentals • Low-level & embedde
 <h2 align="center">📫 Get in Touch</h2>
 
 <div align="center">
-  <a href="mailto:wasif.k1m9@gmail.com" target="_blank">
+  <!-- Gmail compose -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasif.k1m9@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
+
+  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://wasifkhan.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/wasif910" target="_blank">
+
+  <a href="https://github.com/wasif910" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -130,5 +131,3 @@ Scalable backend patterns • System design fundamentals • Low-level & embedde
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&pause=5000&size=18&color=00BFFF&center=true&vCenter=true&width=800&lines=%22Always+open+to+learning,+building,+and+collaborating.%22;%22Build+things+that+actually+help+people.%22;%22Simple,+clean,+scalable.%22" />
 </div>
-
-
