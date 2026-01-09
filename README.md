@@ -115,7 +115,7 @@ Scalable backend patterns • System design fundamentals • Low-level & embedde
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://wasifkhan.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/wasif910" target="_blank">
@@ -130,4 +130,5 @@ Scalable backend patterns • System design fundamentals • Low-level & embedde
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&pause=5000&size=18&color=00BFFF&center=true&vCenter=true&width=800&lines=%22Always+open+to+learning,+building,+and+collaborating.%22;%22Build+things+that+actually+help+people.%22;%22Simple,+clean,+scalable.%22" />
 </div>
+
 
